@@ -1,4 +1,4 @@
-# threat-Hunt---2-entry-point-Azuki
+# Threat-Hunt---2-entry-point-Azuki
 
 # Azuki Import/Export Threat Hunt
 
