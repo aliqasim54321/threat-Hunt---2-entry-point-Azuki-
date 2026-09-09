@@ -189,7 +189,7 @@ DeviceLogonEvents
 
 **Answer:** `88.97.178.12`
 
-**Screenshot:** Add Flag 1 result screenshot here.
+![Flag 1 Result](image/fig1.png)
 
 ---
 
@@ -213,7 +213,7 @@ DeviceLogonEvents
 
 **Answer:** `kenji.sato`
 
-**Screenshot:** Add Flag 2 result screenshot here.
+![Flag 1 Result](image/fig2.png)
 
 ---
 
@@ -234,7 +234,7 @@ DeviceProcessEvents
 
 **Answer:** `"ARP.EXE" -a`
 
-**Screenshot:** Add Flag 3 result screenshot here.
+![Flag 1 Result](image/fig3.png)
 
 ---
 
@@ -255,7 +255,7 @@ DeviceProcessEvents
 
 **Answer:** `C:\ProgramData\WindowsCache`
 
-**Screenshot:** Add Flag 4 result screenshot here.
+![Flag 1 Result](image/fig4.png)
 
 ---
 
@@ -274,7 +274,7 @@ DeviceRegistryEvents
 
 **Answer:** `3`
 
-**Screenshot:** Add Flag 5 result screenshot here.
+![Flag 1 Result](image/fig5.png)
 
 ---
 
@@ -293,7 +293,7 @@ DeviceRegistryEvents
 
 **Answer:** `C:\Users\KENJI~1.SAT\AppData\Local\Temp`
 
-**Screenshot:** Add Flag 6 result screenshot here.
+![Flag 1 Result](image/fig6.png)
 
 ---
 
@@ -313,7 +313,7 @@ DeviceProcessEvents
 
 **Answer:** `certutil.exe`
 
-**Screenshot:** Add Flag 7 result screenshot here.
+![Flag 1 Result](image/fig7.png)
 
 ---
 
@@ -333,7 +333,7 @@ DeviceProcessEvents
 
 **Answer:** `Windows Update Check`
 
-**Screenshot:** Add Flag 8 result screenshot here.
+![Flag 1 Result](image/fig8.png)
 
 ---
 
@@ -354,7 +354,7 @@ DeviceProcessEvents
 
 **Answer:** `C:\ProgramData\WindowsCache\svchost.exe`
 
-**Screenshot:** Add Flag 9 result screenshot here.
+![Flag 1 Result](image/fig9.png)
 
 ---
 
@@ -375,7 +375,7 @@ DeviceNetworkEvents
 
 **Answer:** `78.141.196.6`
 
-**Screenshot:** Add Flag 10 result screenshot here.
+![Flag 1 Result](image/fig10.png)
 
 ---
 
@@ -395,7 +395,7 @@ DeviceNetworkEvents
 
 **Answer:** `443`
 
-**Screenshot:** Add Flag 11 result screenshot here.
+![Flag 1 Result](image/fig11.png)
 
 ---
 
@@ -415,7 +415,7 @@ DeviceFileEvents
 
 **Answer:** `mm.exe`
 
-**Screenshot:** Add Flag 12 result screenshot here.
+![Flag 1 Result](image/fig12.png)
 
 ---
 
@@ -437,7 +437,7 @@ DeviceProcessEvents
 
 **Answer:** `sekurlsa::logonpasswords`
 
-**Screenshot:** Add Flag 13 result screenshot here.
+![Flag 1 Result](image/fig13.png)
 
 ---
 
@@ -458,7 +458,7 @@ DeviceFileEvents
 
 **Answer:** `export-data.zip`
 
-**Screenshot:** Add Flag 14 result screenshot here.
+![Flag 1 Result](image/fig14.png)
 
 ---
 
@@ -479,8 +479,7 @@ DeviceNetworkEvents
 
 **Answer:** `discord`
 
-**Screenshot:** Add Flag 15 result screenshot here.
-
+![Flag 1 Result](image/fig15.png)
 ---
 
 ## Flag 16 — Anti-Forensics: Log Tampering
@@ -501,7 +500,7 @@ DeviceProcessEvents
 
 **Answer:** `Security`
 
-**Screenshot:** Add Flag 16 result screenshot here.
+![Flag 1 Result](image/fig16.png)
 
 ---
 
@@ -522,7 +521,7 @@ DeviceProcessEvents
 
 **Answer:** `support`
 
-**Screenshot:** Add Flag 17 result screenshot here.
+![Flag 1 Result](image/fig17.png)
 
 ---
 
@@ -543,7 +542,7 @@ DeviceFileEvents
 
 **Answer:** `wupdate.ps1`
 
-**Screenshot:** Add Flag 18 result screenshot here.
+![Flag 1 Result](image/fig18.png)
 
 ---
 
@@ -565,7 +564,7 @@ DeviceProcessEvents
 
 **Answer:** `10.1.0.188`
 
-**Screenshot:** Add Flag 19 result screenshot here.
+![Flag 1 Result](image/fig19.png)
 
 ---
 
@@ -585,7 +584,7 @@ DeviceProcessEvents
 
 **Answer:** `mstsc.exe`
 
-**Screenshot:** Add Flag 20 result screenshot here.
+![Flag 1 Result](image/fig20.png)
 
 ---
 
